@@ -1,0 +1,14 @@
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\bin\Debug\net8.0\introduçãoLambda-LinQ.exe
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\bin\Debug\net8.0\introduçãoLambda-LinQ.deps.json
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\bin\Debug\net8.0\introduçãoLambda-LinQ.runtimeconfig.json
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\bin\Debug\net8.0\introduçãoLambda-LinQ.dll
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\bin\Debug\net8.0\introduçãoLambda-LinQ.pdb
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.AssemblyInfoInputs.cache
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.AssemblyInfo.cs
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.csproj.CoreCompileInputs.cache
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.dll
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\refint\introduçãoLambda-LinQ.dll
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.pdb
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\introduçãoLambda-LinQ.genruntimeconfig.cache
+C:\Users\leandro.santos\Documents\Programando C#\introduçãoLambda-LinQ\introduçãoLambda-LinQ\obj\Debug\net8.0\ref\introduçãoLambda-LinQ.dll
